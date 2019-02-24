@@ -1,0 +1,290 @@
+﻿File Name: Elon_1.wav
+Speaker: 1
+Start Time: 0.41
+End Time: 3.46
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 3.65
+End Time: 4.71
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 11.43
+End Time: 12.57
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 8.28
+End Time: 11.29
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 11.29
+End Time: 12.19
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 11.9
+End Time: 13.57
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 14.33
+End Time: 15.38
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 18.36
+End Time: 19.14
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 19.78
+End Time: 20.78
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 22.34
+End Time: 24.14
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 24.67
+End Time: 26.39
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 27.93
+End Time: 28.92
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 30.03
+End Time: 32.79
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 33.98
+End Time: 37.06
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 38.43
+End Time: 40.23
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 40.94
+End Time: 42.32
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 43.03
+End Time: 44.69
+
+File Name: Elon_2.wav
+Speaker: 1
+Start Time: 0.09
+End Time: 1.41
+
+File Name: Elon_2.wav
+Speaker: 1
+Start Time: 1.89
+End Time: 2.66
+
+File Name: Elon_2.wav
+Speaker: 1
+Start Time: 4.03
+End Time: 6.89
+
+File Name: Elon_2.wav
+Speaker: 1
+Start Time: 7.07
+End Time: 7.79
+
+File Name: Elon_2.wav
+Speaker: 1
+Start Time: 8.41
+End Time: 9.84
+
+File Name: Elon_2.wav
+Speaker: 1
+Start Time: 9.82
+End Time: 10.95
+
+File Name: Elon_2.wav
+Speaker: 1
+Start Time: 11.56
+End Time: 13.13
+
+File Name: Elon_2.wav
+Speaker: 1
+Start Time: 13.59
+End Time: 14.42
+
+File Name: Elon_2.wav
+Speaker: 1
+Start Time: 15.02
+End Time: 15.97
+
+File Name: Elon_2.wav
+Speaker: 1
+Start Time: 15.97
+End Time: 17.17
+
+File Name: Elon_2.wav
+Speaker: 1
+Start Time: 18.87
+End Time: 20
+
+File Name: Elon_3.wav
+Speaker: 1
+Start Time: 0.96
+End Time: 4.6
+
+File Name: Elon_3.wav
+Speaker: 1
+Start Time: 3.57
+End Time: 5.87
+
+File Name: Elon_3.wav
+Speaker: 1
+Start Time: 6.08
+End Time: 10.43
+
+File Name: Elon_3.wav
+Speaker: 1
+Start Time: 10.78
+End Time: 12.83
+
+File Name: Elon_3.wav
+Speaker: 1
+Start Time: 14.35
+End Time: 15.93
+
+File Name: Elon_3.wav
+Speaker: 1
+Start Time: 16.55
+End Time: 19.19
+
+File Name: Elon_3.wav
+Speaker: 1
+Start Time: 20.35
+End Time: 25.02
+
+File Name: Elon_3.wav
+Speaker: 1
+Start Time: 25.66
+End Time: 26.72
+
+File Name: Elon_3.wav
+Speaker: 1
+Start Time: 27.21
+End Time: 30.33
+
+File Name: Elon_3.wav
+Speaker: 1
+Start Time: 33.1
+End Time: 35.41
+
+File Name: Elon_3.wav
+Speaker: 1
+Start Time: 35.61
+End Time: 37.11
+
+File Name: Elon_3.wav
+Speaker: 1
+Start Time: 37.47
+End Time: 38.94
+
+File Name: Elon_3.wav
+Speaker: 1
+Start Time: 40.89
+End Time: 42.05
+
+File Name: Elon_3.wav
+Speaker: 1
+Start Time: 42.62
+End Time: 44.97
+
+File Name: Joe_1.wav
+Speaker: 1
+Start Time: 0
+End Time: 18
+
+File Name: Joe_1.wav
+Speaker: 1
+Start Time: 3.36
+End Time: 6.96
+
+File Name: Joe_1.wav
+Speaker: 1
+Start Time: 7.11
+End Time: 10.67
+
+File Name: Joe_1.wav
+Speaker: 1
+Start Time: 10.69
+End Time: 17.94
+
+File Name: Joe_2.wav
+Speaker: 1
+Start Time: 1.05
+End Time: 6
+
+File Name: Joe_2.wav
+Speaker: 1
+Start Time: 6.34
+End Time: 13.13
+
+File Name: Joe_2.wav
+Speaker: 1
+Start Time: 13.36
+End Time: 14.9
+
+File Name: Joe_2.wav
+Speaker: 1
+Start Time: 15.42
+End Time: 16.32
+
+File Name: Joe_2.wav
+Speaker: 1
+Start Time: 16.69
+End Time: 20.38
+
+File Name: Joe_2.wav
+Speaker: 1
+Start Time: 20.57
+End Time: 28.49
+
+File Name: Joe_2.wav
+Speaker: 1
+Start Time: 28.57
+End Time: 40.62
+
+File Name: Joe_2.wav
+Speaker: 1
+Start Time: 40.99
+End Time: 43.1
+
+File Name: Joe_2.wav
+Speaker: 1
+Start Time: 43.52
+End Time: 46.83
+
+File Name: Joe_2.wav
+Speaker: 1
+Start Time: 47.94
+End Time: 52.41
+
+File Name: Joe_2.wav
+Speaker: 1
+Start Time: 52.68
+End Time: 56.05
+
+File Name: Joe_2.wav
+Speaker: 1
+Start Time: 55.87
+End Time: 60.91
+

@@ -1,0 +1,85 @@
+﻿File Name: Elon_1.wav
+Speaker: 1
+Start Time: 0.41
+End Time: 3.46
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 3.65
+End Time: 4.71
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 11.43
+End Time: 12.57
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 8.28
+End Time: 11.29
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 11.29
+End Time: 12.19
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 11.9
+End Time: 13.57
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 14.33
+End Time: 15.38
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 18.36
+End Time: 19.14
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 19.78
+End Time: 20.78
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 22.34
+End Time: 24.14
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 24.67
+End Time: 26.39
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 27.93
+End Time: 28.92
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 30.03
+End Time: 32.79
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 33.98
+End Time: 37.06
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 38.43
+End Time: 40.23
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 40.94
+End Time: 42.32
+
+File Name: Elon_1.wav
+Speaker: 1
+Start Time: 43.03
+End Time: 44.69
+
