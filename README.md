@@ -3,7 +3,7 @@ Simple audio file labeling tool for speech diarization/recognition.
 
 Allows users to analyze audio files and manually label speakers, which is parsed into a text file. Developed inorder to train our "Speech Diarization" machine learning model.  
 
-# IMPORTANT:
+# Instructions:
 
 1. Drop all .wav/.mp3 files into 'Audio' File
 
@@ -16,4 +16,11 @@ Allows users to analyze audio files and manually label speakers, which is parsed
 (https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi)
 
 4. Open index.html
+
+# User Interface:
+
+![image](https://user-images.githubusercontent.com/19351934/53293614-3cc22a00-37a5-11e9-8304-904028c8b8e1.png)
+
+
+Created by: Krishna Karunaharan
 
